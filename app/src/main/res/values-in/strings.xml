@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">Judul utama</string>
+    <string name="desc_intro">Keterangan</string>
+    <string name="skip_now">Lewati sekarang</string>
+    <string name="itro_title_1">Langkah Penghitung untuk Android</string>
+    <string name="itro_desc_1">Penghitung langkah ini menggunakan sensor bawaan untuk menghitung langkah Anda. Tidak ada pelacakan GPS, sehingga dapat menghemat baterai. Ini juga melacak kalori Anda yang terbakar, jarak berjalan kaki dan waktu, dll. Semua informasi ini akan ditampilkan dengan jelas dalam grafik.</string>
+    <string name="itro_title_2">Langkah counter dengan pembakar kalori</string>
+    <string name="itro_desc_2">Penghitung langkah dengan kalori pembakar adalah alat sederhana untuk membantu Anda menurunkan berat badan dan tetap bugar. Anda dapat memeriksa langkah -langkah dan kalori yang terbakar setiap hari di pedometer dengan pembakar kalori.</string>
+    <string name="itro_title_3">Langkah Counter &amp; amp; Pelacak Kebugaran Kesehatan</string>
+    <string name="itro_desc_3">Mencari aplikasi yang menghitung langkah dan menjaga kebugaran kesehatan Anda di jalur! Harus mencoba pelacak kebugaran penghitung langkah. Penghitung langkah untuk berjalan offline ini adalah aplikasi kebugaran gratis dirancang untuk meningkatkan kebugaran &amp; amp Anda; kesehatan.</string>
+    <string name="what_s_your_gender">Apa jenis kelamin anda?</string>
+    <string name="what_s_your_goal">Apa tujuan harian Anda?</string>
+    <string name="calories_stride_length_calculation_need_it">Kalori &amp; Perhitungan Panjang Langkah membutuhkannya</string>
+    <string name="to_personalize_your_daily_goal">Untuk mempersonalisasikan tujuan harian Anda</string>
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="next">Berikutnya</string>
+    <string name="_next">Berikutnya</string>
+    <string name="male">Pria</string>
+    <string name="female">Perempuan</string>
+    <string name="generating_your_daily_goal">Menghasilkan Tujuan Harian Anda</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">Tujuan jarak harian</string>
+    <string name="_100_km">100 km</string>
+    <string name="total_distance">Total jarak</string>
+    <string name="total_time">Total waktu</string>
+    <string name="total_calories">Total kalori</string>
+    <string name="total_average_speed">Kecepatan rata -rata total</string>
+    <string name="recent_history">Sejarah Terbaru</string>
+    <string name="more">Lagi</string>
+    <string name="june_09_2022">09 Juni 2022</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 menit/km</string>
+    <string name="_10_kcal">10 kkal</string>
+    <string name="best_records">Catatan terbaik</string>
+    <string name="longest_distance">Jarak terpanjang</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">Kecepatan tertinggi</string>
+    <string name="min_mi">min/mi</string>
+    <string name="longest_duration">Durasi terpanjang</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">Kosong</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">Anda tidak memiliki sejarah terbaru saat ini</string>
+    <string name="title">Judul</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="save">Menyimpan</string>
+    <string name="are_you_sure_to_delete_your_history">Apakah Anda pasti akan menghapus riwayat Anda?</string>
+    <string name="delete_history">Hapus Sejarah</string>
+    <string name="my_progress">Kemajuanku</string>
+    <string name="total_km">Total km</string>
+    <string name="total_hours">Jumlah jam</string>
+    <string name="avg_pace">Kecepatan rata -rata</string>
+    <string name="pace_min_km">Kecepatan (min/km)</string>
+    <string name="see_more">Lihat lebih banyak</string>
+    <string name="statistics">Statistik</string>
+    <string name="week">Pekan</string>
+    <string name="month">Bulan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="achievements">Pencapaian</string>
+    <string name="running_settings">Menjalankan pengaturan</string>
+    <string name="daily_goal">Tujuan harian</string>
+    <string name="unit">Satuan</string>
+    <string name="metric_imperial_unit">Unit Metrik &amp; Kekaisaran</string>
+    <string name="general_settings">Pengaturan Umum</string>
+    <string name="reminder">Pengingat</string>
+    <string name="everyday">Setiap hari</string>
+    <string name="_09_00_am">9:00 PAGI</string>
+    <string name="language">Bahasa</string>
+    <string name="english">Bahasa inggris</string>
+    <string name="account_settings">Pengaturan akun</string>
+    <string name="backup_restore">Cadangan &amp; Pemulihan</string>
+    <string name="subscription">Berlangganan</string>
+    <string name="terms_and_support">Istilah dan dukungan</string>
+    <string name="rate_us">Nilai kami</string>
+    <string name="contact_us">Hubungi kami</string>
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <string name="repeat">Mengulang</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Matahari, mon, sel tue, wed, thu, fri, Sat</string>
+    <string name="select_time">Pilih waktu</string>
+    <string name="select_days">Pilih hari</string>
+    <string name="okay">OKE</string>
+    <string name="set_as_my_goal">Ditetapkan sebagai tujuan saya</string>
+    <string name="set_daily_goal">Tetapkan tujuan harian</string>
+    <string name="find_a_language">Temukan bahasa</string>
+    <string name="subscription_plan">Rencana Langganan</string>
+    <string name="sub_desc">Pilih rencana berlangganan untuk membuka kunci semua fungsionalitas aplikasi</string>
+    <string name="allows_location">Memungkinkan lokasi</string>
+    <string name="use_your_location">Gunakan lokasi Anda</string>
+    <string name="use_location_desc_1">Untuk melihat peta untuk aktivitas yang dilacak secara otomatis, izinkan Peta Runner untuk menggunakan lokasi Anda sepanjang waktu.</string>
+    <string name="use_location_desc_2">Peta Runner akan menggunakan lokasi di latar belakang untuk menampilkan jalan -jalan, lari, dan naik sepeda di peta.</string>
+    <string name="not_now">Tidak sekarang</string>
+    <string name="allow">Mengizinkan</string>
+    <string name="swipe_left_to_unlock">Geser ke kiri untuk membuka kunci</string>
+    <string name="restart">Mengulang kembali</string>
+    <string name="resume">Melanjutkan</string>
+    <string name="stop">Berhenti</string>
+    <string name="finish_run_tracking_training">Selesai menjalankan pelacakan pelacakan</string>
+    <string name="finish">Menyelesaikan</string>
+    <string name="ok">OKE</string>
+    <string name="get_achievements">Dapatkan prestasi</string>
+    <string name="congratulation">Selamat!</string>
+    <string name="you_have_achieved">Anda telah mencapai</string>
+    <string name="share_with_social_media">Bagikan dengan media sosial</string>
+    <string name="subscribe">Langganan</string>
+    <string name="hrs">Jam</string>
+    <string name="full_date_example">09 Juni 2022, 7:00 pagi</string>
+    <string name="speed">Kecepatan</string>
+    <string name="calories">Kalori</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="sync">Sinkronisasi</string>
+    <string name="please_wait">Harap tunggu…</string>
+    <string name="please_login_first">Silahkan masuk terlebih dahulu</string>
+    <string name="are_you_sure_sign_out">Apakah Anda yakin ingin keluar?</string>
+    <string name="_yes">Ya</string>
+    <string name="_no">TIDAK</string>
+    <string name="total">Total</string>
+</resources>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteOp30">#30FFFFFF</color>
+    <color name="whiteOp50">#80FFFFFF</color>
+    <color name="popupBgColor">#FFFFFF</color>
+    <color name="theme">#994ECC</color>
+    <color name="theme1f">#1f466AEC</color>
+    <color name="theme2f">#2f466AEC</color>
+    <color name="theme3f">#3f466AEC</color>
+    <color name="theme4f">#4f466AEC</color>
+    <color name="theme5f">#5f466AEC</color>
+    <color name="theme6f">#6f466AEC</color>
+    <color name="theme7f">#7f466AEC</color>
+    <color name="theme8f">#8f466AEC</color>
+    <color name="theme9f">#9f8000FF</color>
+    <color name="darkTheme">#142850</color>
+    <color name="lightTheme2">#F9D6D6</color>
+    <color name="lightTheme1">#FFF2F2</color>
+    <color name="lightTheme">#466AEC</color>
+    <color name="progressColor">#142850</color>
+    <color name="darkTextColor">#1f2937</color>
+    <color name="lightBlueTextColor">#89A8FA</color>
+    <color name="gray">#EAEAEA</color>
+    <color name="progressColorPlace">#EAEAEA</color>
+    <color name="txtGray">#A9A9A9</color>
+    <color name="txtGrayChoice">#E0E0E0</color>
+    <color name="txtGray2">#4F4F4F</color>
+    <color name="txtGrayDark">#828282</color>
+    <color name="waterBgColor">#F9F9FB</color>
+    <color name="grayForCalendar">#8F9BB3</color>
+    <color name="white35">#35FFFFFF</color>
+    <color name="txtGrayPremium">#B8B6B6</color>
+    <color name="grayF2">#F2F2F2</color>
+    <color name="grayBd">#BDBDBD</color>
+    <color name="grayBdOp">#E3E3E3</color>
+    <color name="purple">#b179fe</color>
+    <color name="grayDF">#DFDFDF</color>
+    <color name="backArrowColor">#585858</color>
+    <color name="historyBgColor">#F1F1F1</color>
+    <color name="trackOffColor">#B4B4B4</color>
+
+    <color name="lineColor">#D5D5D5</color>
+    <color name="borderColorOfChart">#7B7B7B</color>
+    <color name="borderOfProfileSetting">#8B9DA3</color>
+    <color name="txtColorOfSleep">#8189B0</color>
+
+    <color name="startColor">#994ECC</color>
+
+    <color name="stepsAchiveTrans">#50ED213A</color>
+    <color name="dayAchiveTrans">#50418ED6</color>
+    <color name="kmAchiveTrans">#50AA75CB</color>
+
+    <color name="dailyStepBox">#F8E7E7</color>
+    <color name="totalDaysBox">#E7F0F9</color>
+    <color name="totalDistanceBox">#F4EDF8</color>
+
+    <color name="stepsAchive">#ED213A</color>
+    <color name="dayAchive">#418ED6</color>
+    <color name="kmAchive">#AA75CB</color>
+
+    <color name="endColor">#3E187A</color>
+    <color name="cardBgColor">#F8F8F8</color>
+    <color name="mainCardColor">#F8F8F8</color>
+    <color name="bgOfSleepGray">#F5F5F5</color>
+    <color name="bgOfSleepCardBorder">#A7A7A7</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent2">#00FFFFFF</color>
+    <color name="transparent50">#90FFFFFF</color>
+    <color name="transparentBlack50">#90000000</color>
+    <color name="transparent99">#E6FFFFFF</color>
+    <color name="black20">#20000000</color>
+    <color name="black50">#50000000</color>
+    <color name="black80">#80000000</color>
+    <color name="tabBg">#F8F8F8</color>
+    <color name="tabBg1">#E0E0E0</color>
+
+
+    <color name="achievementDailyDetail">#F3E6E6</color>
+    <color name="achievementDailyDaysDetail">#E5EDF5</color>
+    <color name="achievementDailyDistanceDetail">#EEE9F2</color>
+    <color name="startColorAchiveDaily">#25983535</color>
+    <color name="endColorAchiveDaily">#25CE4444</color>
+    <color name="startColorAchiveTotalDays">#252B63A6</color>
+    <color name="endColorAchiveTotalDays">#25418ED6</color>
+    <color name="startColorAchiveTotalDistance">#2573488D</color>
+    <color name="endColorAchiveTotalDistance">#25AA75CB</color>
+
+    <color name="historyChildIcon">#466AEC</color>
+    <color name="chartBgColor">#F9F9FB</color>
+
+    <!--Language Color-->
+    <color name="llLanguageMain">#2f466AEC</color>
+    <color name="txtLanguageTitle">#466AEC</color>
+    <color name="imLangLogo">#466AEC</color>
+
+    <color name="llLanguageMainUn">#F8F8F8</color>
+    <color name="txtLanguageTitleUn">#000000</color>
+
+    <color name="bottomBarColor">#466AEC</color>
+
+    <color name="startColorDays">#418ED6</color>
+    <color name="endColorDays">#2B63A6</color>
+    <color name="startColorDistance">#AA75CB</color>
+    <color name="endColorDistance">#73488D</color>
+    <color name="colorPremiumWhite">#466AEC</color>
+    <color name="colorTxtPremiumWhite">#412929</color>
+    <color name="colorBoxPremiumWhite">#F8F8F8</color>
+    <color name="bgLock">#90E7E7E7</color>
+
+
+    <color name="onlyWhite">#FFFFFF</color>
+    <color name="onlyBlack">#000000</color>
+
+    <color name="restartStart">#2193B0</color>
+    <color name="restartEnd">#6DD5ED</color>
+    <color name="resumeStart">#56AB2F</color>
+    <color name="resumeEnd">#A8E063</color>
+    <color name="stopStart">#142850</color>
+    <color name="stopEnd">#466AEC</color>
+
+</resources>

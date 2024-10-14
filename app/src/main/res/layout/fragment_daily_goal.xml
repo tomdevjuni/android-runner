@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.DailyGoalFragment">
+
+
+    <LinearLayout
+        android:id="@+id/llMainHeightTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:background="@drawable/seleted_tab_indicator"
+        android:backgroundTint="@color/tabBg"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txtKm"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/selected_tab_view"
+            android:fontFamily="@font/roboto_bold"
+            android:textAllCaps="true"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_30sdp"
+            android:paddingVertical="@dimen/_13sdp"
+            android:text="@string/km"
+            android:textColor="@color/onlyWhite"
+            android:textSize="@dimen/_12sdp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txtMiles"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:fontFamily="@font/roboto_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_30sdp"
+            android:textAllCaps="true"
+            android:paddingVertical="@dimen/_13sdp"
+            android:text="@string/_miles"
+            android:textColor="@color/txtGray"
+            android:textSize="@dimen/_12sdp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingVertical="@dimen/_10sdp"
+        android:visibility="visible">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="@dimen/_12sdp"
+            android:layout_height="@dimen/_12sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_custom_drop_down" />
+
+        <NumberPicker
+            android:id="@+id/pickerDistanceKm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:theme="@style/NumberPicker" />
+
+        <NumberPicker
+            android:visibility="gone"
+            android:id="@+id/pickerDistanceMiles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:theme="@style/NumberPicker" />
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

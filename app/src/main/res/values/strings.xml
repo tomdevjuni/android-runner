@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="AD_MOB_APPLICATION_ID" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">Main TItle</string>
+    <string name="desc_intro">Description</string>
+    <string name="skip_now">Skip Now</string>
+    <string name="itro_title_1">Step Counter for Android</string>
+    <string name="itro_desc_1">This Step Counter uses the built-in sensor to count your steps. No GPS tracking, so it can greatly save battery. It also tracks your burned calories, walking distance and time, etc. All this information will be clearly displayed in graphs.</string>
+    <string name="itro_title_2">Step Counter with calorie burner</string>
+    <string name="itro_desc_2">Step Counter with calorie burner is a simple tool to help you lose weight and keep fit. You can check the steps and calories burned every day in the pedometer with calorie burner.</string>
+    <string name="itro_title_3">Step Counter &amp; Health Fitness Tracker</string>
+    <string name="itro_desc_3">Looking for an app that count steps and keeps your Health fitness on track! Should try a step counter fitness tracker. This Step Counter for walking offline is a free fitness app is designed to improve your fitness &amp; health.</string>
+    <string name="what_s_your_gender">What’s Your Gender?</string>
+    <string name="what_s_your_goal">What’s Your daily goal?</string>
+    <string name="calories_stride_length_calculation_need_it"><![CDATA[Calories & Stride Length Calculation need it]]></string>
+    <string name="to_personalize_your_daily_goal">To personalize your daily goal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="_next">Next</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="generating_your_daily_goal">Generating your daily goal</string>
+    <string name="_78_50">00.00</string>
+    <string name="daily_distance_goal">Daily Distance Goal</string>
+    <string name="_100_km">100</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_calories">Total Calories</string>
+    <string name="total_average_speed">Total Average Speed</string>
+    <string name="recent_history">Recent History</string>
+    <string name="more">More</string>
+    <string name="june_09_2022">June 09, 2022</string>
+    <string name="_01_10_38">01:10:38</string>
+    <string name="_12_23_min_km">12:23 min/km</string>
+    <string name="_10_kcal">10 Kcal</string>
+    <string name="best_records">Best Records</string>
+    <string name="longest_distance">Longest Distance</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0.00</string>
+    <string name="top_speed">Top Speed</string>
+    <string name="min_mi">MIN/MI</string>
+    <string name="longest_duration">Longest Duration</string>
+    <string name="_00_00">00:00</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="empty">Empty</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">You don’t have any recent history at this time</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="are_you_sure_to_delete_your_history">Are you sure you want to delete history?</string>
+    <string name="delete_history">Delete History</string>
+    <string name="my_progress">My Progress</string>
+    <string name="total_km">Total km</string>
+    <string name="total_hours">Total hours</string>
+    <string name="avg_pace">Avg pace</string>
+    <string name="pace_min_km">Pace(MIN/KM)</string>
+    <string name="see_more">See More</string>
+    <string name="statistics">Statistics</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="settings">Settings</string>
+    <string name="achievements">Achievements</string>
+    <string name="running_settings">Running Settings</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="unit">Unit</string>
+    <string name="metric_imperial_unit"><![CDATA[Metric & Imperial Unit]]></string>
+    <string name="general_settings">General Settings</string>
+    <string name="reminder">Reminder</string>
+    <string name="everyday">Everyday</string>
+    <string name="_09_00_am">09:00 AM</string>
+    <string name="language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="backup_restore"><![CDATA[Backup & Restore]]></string>
+    <string name="subscription">Subscription</string>
+    <string name="terms_and_support">Terms And Support</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="repeat">Repeat</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Sun, Mon, Tue, Wed, Thu, Fri, Sat</string>
+    <string name="select_time">Select time</string>
+    <string name="select_days">Select Days</string>
+    <string name="okay">OK</string>
+    <string name="set_as_my_goal">Set As My Goal</string>
+    <string name="set_daily_goal">Set Daily Goal</string>
+    <string name="find_a_language">Search</string>
+    <string name="subscription_plan">Subscription Plan</string>
+    <string name="sub_desc">Choose a Subscription plan to unlock all the functionality of the application</string>
+    <string name="allows_location">Allows Location</string>
+    <string name="use_your_location">Use Your Location</string>
+    <string name="use_location_desc_1">To see maps for automatically tracked Activities, allow map Runner to use your Location all of the time.</string>
+    <string name="use_location_desc_2">Map Runner will use location in the Background to show walks, runs and Bike rides on a map.</string>
+    <string name="not_now">Not Now</string>
+    <string name="allow">Allow</string>
+    <string name="swipe_left_to_unlock">Swipe left to Unlock</string>
+    <string name="restart">Restart</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="finish_run_tracking_training">Finish Run Tracking Training</string>
+    <string name="finish">Finish</string>
+    <string name="ok">OK</string>
+    <string name="get_achievements">Get Achievements</string>
+    <string name="congratulation">congratulations!</string>
+    <string name="you_have_achieved">You have achieved</string>
+    <string name="share_with_social_media">Share with social media</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="hrs">HRS</string>
+    <string name="full_date_example">09 June 2022, 07:00 AM</string>
+    <string name="speed">Speed</string>
+    <string name="calories">Calories</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="sync">Synchronizing</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="please_login_first">Please Login First</string>
+    <string name="are_you_sure_sign_out">Are you sure you want to logout?</string>
+    <string name="_yes">Yes</string>
+    <string name="_no">No</string>
+    <string name="total">Total</string>
+</resources>

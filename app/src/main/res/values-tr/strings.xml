@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">Ana başlık</string>
+    <string name="desc_intro">Tanım</string>
+    <string name="skip_now">Şimdi atla</string>
+    <string name="itro_title_1">Android için adım sayacı</string>
+    <string name="itro_desc_1">Bu adım sayacı, adımlarınızı saymak için yerleşik sensörü kullanır. GPS izleme yok, böylece pilden büyük ölçüde tasarruf sağlayabilir. Ayrıca yanmış kalorilerinizi, yürüme mesafesini ve zamanınızı vb. İzler. Tüm bu bilgiler grafiklerde açıkça görüntülenecektir.</string>
+    <string name="itro_title_2">Kalori brülörü ile adım sayacı</string>
+    <string name="itro_desc_2">Kalori brülörü ile adım sayacı, kilo vermenize ve formda kalmanıza yardımcı olacak basit bir araçtır. Pedometre içinde her gün yakılan adımları ve kalorileri kalori brülörüyle kontrol edebilirsiniz.</string>
+    <string name="itro_title_3">Adım tezgahı &amp; Sağlık Fitness Tracker</string>
+    <string name="itro_desc_3">Adımları sayan ve sağlık zindeliğinizi yolda tutan bir uygulama arıyorum! Bir Step Counter Fitness Tracker ı denemelisiniz. Çevrimdışı Yürüyüş için Bu Adım Sayacı, Fitness &amp; sağlık.</string>
+    <string name="what_s_your_gender">Cinsiyetiniz nedir?</string>
+    <string name="what_s_your_goal">Günlük hedefiniz nedir?</string>
+    <string name="calories_stride_length_calculation_need_it">Kalori ve Adım Uzunluğu Hesaplaması Buna Gerekiyor</string>
+    <string name="to_personalize_your_daily_goal">Günlük hedefinizi kişiselleştirmek için</string>
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="next">Sonraki</string>
+    <string name="_next">Sonraki</string>
+    <string name="male">Erkek</string>
+    <string name="female">Dişi</string>
+    <string name="generating_your_daily_goal">Günlük Hedefinizi Üretmek</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">Günlük mesafe hedefi</string>
+    <string name="_100_km">100 km</string>
+    <string name="total_distance">Toplam mesafe</string>
+    <string name="total_time">Toplam zaman</string>
+    <string name="total_calories">Toplam kalori</string>
+    <string name="total_average_speed">Toplam ortalama hız</string>
+    <string name="recent_history">Yakın tarih</string>
+    <string name="more">Daha</string>
+    <string name="june_09_2022">09 Haziran 2022</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 dk/km</string>
+    <string name="_10_kcal">10 kcal</string>
+    <string name="best_records">En İyi Kayıtlar</string>
+    <string name="longest_distance">En uzun mesafe</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">En yüksek hız</string>
+    <string name="min_mi">Min/Mi</string>
+    <string name="longest_duration">En uzun süre</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">Boş</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">Şu anda yakın bir geçmişin yok</string>
+    <string name="title">Başlık</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="save">Kaydetmek</string>
+    <string name="are_you_sure_to_delete_your_history">Geçmişinizi sileceğinizden emin misiniz?</string>
+    <string name="delete_history">Geçmişi sil</string>
+    <string name="my_progress">İlerlemem</string>
+    <string name="total_km">Toplam km</string>
+    <string name="total_hours">Toplam Saat</string>
+    <string name="avg_pace">Ort. Sürat</string>
+    <string name="pace_min_km">Pace (min/km)</string>
+    <string name="see_more">Daha fazla gör</string>
+    <string name="statistics">İstatistik</string>
+    <string name="week">Hafta</string>
+    <string name="month">Ay</string>
+    <string name="settings">Ayarlar</string>
+    <string name="achievements">Başarılar</string>
+    <string name="running_settings">Koşu Ayarları</string>
+    <string name="daily_goal">Günlük hedef</string>
+    <string name="unit">Birim</string>
+    <string name="metric_imperial_unit">Metrik ve İmparatorluk Birimi</string>
+    <string name="general_settings">Genel Ayarlar</string>
+    <string name="reminder">Hatırlatma</string>
+    <string name="everyday">Her gün</string>
+    <string name="_09_00_am">09:00</string>
+    <string name="language">Dil</string>
+    <string name="english">İngilizce</string>
+    <string name="account_settings">Hesap ayarları</string>
+    <string name="backup_restore">Yedekleme ve Geri Yükle</string>
+    <string name="subscription">Abonelik</string>
+    <string name="terms_and_support">Şartlar ve destek</string>
+    <string name="rate_us">Bizi değerlendirin</string>
+    <string name="contact_us">Bize Ulaşın</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="repeat">Tekrarlamak</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Pazar Pazartesi Salı Çarşamba Perşembe Cuma Cumartesi</string>
+    <string name="select_time">Zaman seçin</string>
+    <string name="select_days">Günler Seçin</string>
+    <string name="okay">TAMAM</string>
+    <string name="set_as_my_goal">Hedefim olarak ayarlayın</string>
+    <string name="set_daily_goal">Günlük golü belirleyin</string>
+    <string name="find_a_language">Bir Dil Bul</string>
+    <string name="subscription_plan">Abonelik planı</string>
+    <string name="sub_desc">Uygulamanın tüm işlevlerini açmak için bir abonelik planı seçin</string>
+    <string name="allows_location">Konuma izin verir</string>
+    <string name="use_your_location">Konumunuzu kullanın</string>
+    <string name="use_location_desc_1">Otomatik olarak izlenen etkinlikler için haritaları görmek için, MAP Runner ın konumunuzu her zaman kullanmasına izin verin.</string>
+    <string name="use_location_desc_2">Harita Runner, bir haritada yürüyüşler, koşular ve bisiklet gezileri göstermek için arka plandaki konumu kullanacaktır.</string>
+    <string name="not_now">Şimdi değil</string>
+    <string name="allow">İzin vermek</string>
+    <string name="swipe_left_to_unlock">Kilidi açmak için sola kaydır</string>
+    <string name="restart">Tekrar başlat</string>
+    <string name="resume">Sürdürmek</string>
+    <string name="stop">Durmak</string>
+    <string name="finish_run_tracking_training">Run izleme eğitimini bitir</string>
+    <string name="finish">Sona ermek</string>
+    <string name="ok">TAMAM</string>
+    <string name="get_achievements">Başarıları Alın</string>
+    <string name="congratulation">Tebrikler!</string>
+    <string name="you_have_achieved">Başardın</string>
+    <string name="share_with_social_media">Sosyal Medya ile Paylaş</string>
+    <string name="subscribe">Abone</string>
+    <string name="hrs">İK</string>
+    <string name="full_date_example">09 Haziran 2022, 07:00</string>
+    <string name="speed">Hız</string>
+    <string name="calories">Kalori</string>
+    <string name="no_internet">İnternet bağlantısı yok</string>
+    <string name="sync">Senkronize edici</string>
+    <string name="please_wait">Lütfen bekleyin…</string>
+    <string name="please_login_first">Lütfen önce giriş yapın</string>
+    <string name="are_you_sure_sign_out">Oturum açmak istediğinden emin misiniz?</string>
+    <string name="_yes">Evet</string>
+    <string name="_no">HAYIR</string>
+    <string name="total">Total</string>
+</resources>

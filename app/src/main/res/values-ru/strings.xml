@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">Основное название</string>
+    <string name="desc_intro">Описание</string>
+    <string name="skip_now">Пропустить сейчас</string>
+    <string name="itro_title_1">Шаг счетчик для Android</string>
+    <string name="itro_desc_1">Этот шаг счетчик использует встроенный датчик для подсчета ваших шагов. Нет отслеживания GPS, поэтому он может значительно сохранить батарею. Он также отслеживает ваши сгоревшие калории, расстояние в ходьбе и время и т. Д. Вся эта информация будет четко отображена на графиках.</string>
+    <string name="itro_title_2">Шаг счетчик с калорийной горелкой</string>
+    <string name="itro_desc_2">Step Counter с калорийной горелкой - это простой инструмент, который поможет вам похудеть и сохранять форму. Вы можете проверить шаги и калории, сжигаемые каждый день в шагомере с помощью горелки калорий.</string>
+    <string name="itro_title_3">Шаг счетчик &amp; Health Fitness Tracker</string>
+    <string name="itro_desc_3">Ищите приложение, которое считает шаги и поддерживает ваше здоровье на правильном пути! Следует попробовать трекер фитнеса Step. Этот шаг счетчик для ходьбы в автономном режиме - это бесплатное фитнес -приложение предназначено для улучшения вашей фитнеса и amp; здоровье.</string>
+    <string name="what_s_your_gender">Ваш пол?</string>
+    <string name="what_s_your_goal">Какова ваша ежедневная цель?</string>
+    <string name="calories_stride_length_calculation_need_it">Расчет калорий и длины шага нуждается в</string>
+    <string name="to_personalize_your_daily_goal">Чтобы персонализировать свою ежедневную цель</string>
+    <string name="hello_blank_fragment">Привет, пустой фрагмент</string>
+    <string name="next">Следующий</string>
+    <string name="_next">Следующий</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="generating_your_daily_goal">Создание вашей ежедневной цели</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">Ежедневная цель дистанции</string>
+    <string name="_100_km">100 км</string>
+    <string name="total_distance">Общее расстояние</string>
+    <string name="total_time">Общее время</string>
+    <string name="total_calories">Общий калории</string>
+    <string name="total_average_speed">Общая средняя скорость</string>
+    <string name="recent_history">Недавняя история</string>
+    <string name="more">Более</string>
+    <string name="june_09_2022">9 июня 2022 года</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 мин/км</string>
+    <string name="_10_kcal">10 ккал</string>
+    <string name="best_records">Лучшие записи</string>
+    <string name="longest_distance">Самое длинное расстояние</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">Максимальная скорость</string>
+    <string name="min_mi">Мин/Ми</string>
+    <string name="longest_duration">Самая продолжительность</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">Пустой</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">У вас нет недавней истории в настоящее время</string>
+    <string name="title">Заголовок</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранять</string>
+    <string name="are_you_sure_to_delete_your_history">Вы обязательно удалите свою историю?</string>
+    <string name="delete_history">Удалить историю</string>
+    <string name="my_progress">Мой прогресс</string>
+    <string name="total_km">Всего км</string>
+    <string name="total_hours">Все часы</string>
+    <string name="avg_pace">AVG PACE</string>
+    <string name="pace_min_km">Темп (мин/км)</string>
+    <string name="see_more">Узнать больше</string>
+    <string name="statistics">Статистика</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="settings">Настройки</string>
+    <string name="achievements">Достижения</string>
+    <string name="running_settings">Запуск настроек</string>
+    <string name="daily_goal">Ежедневная цель</string>
+    <string name="unit">Единица</string>
+    <string name="metric_imperial_unit">Метрическая и имперская единица</string>
+    <string name="general_settings">общие настройки</string>
+    <string name="reminder">Напоминание</string>
+    <string name="everyday">Каждый день</string>
+    <string name="_09_00_am">9:00 УТРА</string>
+    <string name="language">Язык</string>
+    <string name="english">Английский</string>
+    <string name="account_settings">Настройки учетной записи</string>
+    <string name="backup_restore">Восстановления резервной копии</string>
+    <string name="subscription">Подписка</string>
+    <string name="terms_and_support">Условия и поддержка</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="privacy_policy">политика конфиденциальности</string>
+    <string name="repeat">Повторить</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Солнце, Мон, Вт, Ср, Чт, пт, сесть</string>
+    <string name="select_time">Выберите время</string>
+    <string name="select_days">Выберите дни</string>
+    <string name="okay">ХОРОШО</string>
+    <string name="set_as_my_goal">Установить как моя цель</string>
+    <string name="set_daily_goal">Установить ежедневную цель</string>
+    <string name="find_a_language">Найти язык</string>
+    <string name="subscription_plan">План подписки</string>
+    <string name="sub_desc">Выберите план подписки, чтобы разблокировать всю функциональность приложения</string>
+    <string name="allows_location">Разрешает местоположение</string>
+    <string name="use_your_location">Используйте свое местоположение</string>
+    <string name="use_location_desc_1">Чтобы увидеть карты для автоматически отслеживаемых действий, позвольте Map Runner постоянно использовать ваше местоположение.</string>
+    <string name="use_location_desc_2">Map Runner будет использовать местоположение в заднем плане, чтобы показать прогулки, пробеги и велосипедные поездки на карте.</string>
+    <string name="not_now">Не сейчас</string>
+    <string name="allow">Позволять</string>
+    <string name="swipe_left_to_unlock">Проведите влево, чтобы разблокировать</string>
+    <string name="restart">Перезапуск</string>
+    <string name="resume">Резюме</string>
+    <string name="stop">Останавливаться</string>
+    <string name="finish_run_tracking_training">Отделать обучение по отслеживанию пробега</string>
+    <string name="finish">Заканчивать</string>
+    <string name="ok">ХОРОШО</string>
+    <string name="get_achievements">Получите достижения</string>
+    <string name="congratulation">Поздравляю!</string>
+    <string name="you_have_achieved">Вы достигли</string>
+    <string name="share_with_social_media">Поделиться с социальными сетями</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="hrs">HRS</string>
+    <string name="full_date_example">09 июня 2022 года, 7:00</string>
+    <string name="speed">Скорость</string>
+    <string name="calories">Калории</string>
+    <string name="no_internet">Нет соединения с интернетом</string>
+    <string name="sync">Синхронизация</string>
+    <string name="please_wait">Пожалуйста, подождите…</string>
+    <string name="please_login_first">Пожалуйста, войдите сначала</string>
+    <string name="are_you_sure_sign_out">Вы действительно хотите выйти?</string>
+    <string name="_yes">Да</string>
+    <string name="_no">Нет</string>
+    <string name="total">Total</string>
+</resources>

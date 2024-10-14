@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">メインタイトル</string>
+    <string name="desc_intro">説明</string>
+    <string name="skip_now">今すぐスキップします</string>
+    <string name="itro_title_1">Androidのステップカウンター</string>
+    <string name="itro_desc_1">このステップカウンターは、組み込みのセンサーを使用して手順をカウントします。 GPSトラッキングはないため、バッテリーを大幅に節約できます。また、燃焼したカロリー、徒歩圏内、時間などを追跡します。この情報はすべて、グラフに明確に表示されます。</string>
+    <string name="itro_title_2">カロリーバーナーを備えたステップカウンター</string>
+    <string name="itro_desc_2">カロリーバーナー付きステップカウンターは、体重を減らしてフィット感を維持するのに役立つ簡単なツールです。カロリーバーナーを使用して、歩数計で毎日燃やされている階段とカロリーを確認できます。</string>
+    <string name="itro_title_3">ステップカウンター＆amp;ヘルスフィットネストラッカー</string>
+    <string name="itro_desc_3">手順をカウントし、ヘルスフィットネスを軌道に乗せるアプリを探しています！ステップカウンターフィットネストラッカーを試してみてください。オフラインのウォーキング用のこのステップカウンターは、Free Fitnessアプリがフィットネス＆ampを改善するために設計されています。健康。</string>
+    <string name="what_s_your_gender">あなたの性別はなんですか？</string>
+    <string name="what_s_your_goal">あなたの毎日の目標は何ですか？</string>
+    <string name="calories_stride_length_calculation_need_it">カロリーとストライドの長さの計算が必要です</string>
+    <string name="to_personalize_your_daily_goal">あなたの毎日の目標をパーソナライズするために</string>
+    <string name="hello_blank_fragment">こんにちは空白フラグメント</string>
+    <string name="next">次</string>
+    <string name="_next">次</string>
+    <string name="male">男</string>
+    <string name="female">女性</string>
+    <string name="generating_your_daily_goal">毎日の目標を生み出します</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">毎日の距離の目標</string>
+    <string name="_100_km">100 km</string>
+    <string name="total_distance">総距離</string>
+    <string name="total_time">合計時間</string>
+    <string name="total_calories">総カロリー</string>
+    <string name="total_average_speed">総平均速度</string>
+    <string name="recent_history">近年の歴史</string>
+    <string name="more">もっと</string>
+    <string name="june_09_2022">2022年6月9日</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23分/km</string>
+    <string name="_10_kcal">10 kcal</string>
+    <string name="best_records">最高のレコード</string>
+    <string name="longest_distance">最も長い距離</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">最高速度</string>
+    <string name="min_mi">min/mi</string>
+    <string name="longest_duration">最長の期間</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">空の</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">現時点では最近の歴史はありません</string>
+    <string name="title">タイトル</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="are_you_sure_to_delete_your_history">あなたはあなたの歴史を削除することは間違いありませんか？</string>
+    <string name="delete_history">履歴を削除します</string>
+    <string name="my_progress">私の進歩</string>
+    <string name="total_km">合計km</string>
+    <string name="total_hours">合計時間</string>
+    <string name="avg_pace">平均ペース</string>
+    <string name="pace_min_km">ペース（最小/km）</string>
+    <string name="see_more">続きを見る</string>
+    <string name="statistics">統計</string>
+    <string name="week">週</string>
+    <string name="month">月</string>
+    <string name="settings">設定</string>
+    <string name="achievements">成果</string>
+    <string name="running_settings">実行設定の実行</string>
+    <string name="daily_goal">毎日の目標</string>
+    <string name="unit">ユニット</string>
+    <string name="metric_imperial_unit">メトリックおよびインペリアルユニット</string>
+    <string name="general_settings">一般設定</string>
+    <string name="reminder">リマインダー</string>
+    <string name="everyday">毎日</string>
+    <string name="_09_00_am">午前9:00</string>
+    <string name="language">言語</string>
+    <string name="english">英語</string>
+    <string name="account_settings">アカウント設定</string>
+    <string name="backup_restore">復元する</string>
+    <string name="subscription">サブスクリプション</string>
+    <string name="terms_and_support">条件とサポート</string>
+    <string name="rate_us">私たちを評価してください</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="repeat">繰り返す</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">太陽、月、火、水、木、金、土曜日</string>
+    <string name="select_time">時間を選択します</string>
+    <string name="select_days">日を選択します</string>
+    <string name="okay">わかりました</string>
+    <string name="set_as_my_goal">私の目標として設定します</string>
+    <string name="set_daily_goal">毎日の目標を設定します</string>
+    <string name="find_a_language">言語を見つけます</string>
+    <string name="subscription_plan">サブスクリプションプラン</string>
+    <string name="sub_desc">サブスクリプションプランを選択して、アプリケーションのすべての機能のロックを解除します</string>
+    <string name="allows_location">場所を許可します</string>
+    <string name="use_your_location">あなたの場所を使用してください</string>
+    <string name="use_location_desc_1">自動的に追跡されたアクティビティのマップを表示するには、Map Runnerが常にあなたの場所を使用できるようにします。</string>
+    <string name="use_location_desc_2">マップランナーは、バックグラウンドの場所を使用して、マップ上のウォーク、ランニング、自転車の乗り物を表示します。</string>
+    <string name="not_now">今じゃない</string>
+    <string name="allow">許可する</string>
+    <string name="swipe_left_to_unlock">左にスワイプしてロックを解除します</string>
+    <string name="restart">再起動</string>
+    <string name="resume">再開する</string>
+    <string name="stop">停止</string>
+    <string name="finish_run_tracking_training">追跡トレーニングを実行します</string>
+    <string name="finish">仕上げる</string>
+    <string name="ok">わかりました</string>
+    <string name="get_achievements">成果を得る</string>
+    <string name="congratulation">おめでとう！</string>
+    <string name="you_have_achieved">あなたは達成しました</string>
+    <string name="share_with_social_media">ソーシャルメディアと共有します</string>
+    <string name="subscribe">購読する</string>
+    <string name="hrs">HRS</string>
+    <string name="full_date_example">2022年6月9日午前7時</string>
+    <string name="speed">スピード</string>
+    <string name="calories">カロリー</string>
+    <string name="no_internet">インターネット接続はありません</string>
+    <string name="sync">同期</string>
+    <string name="please_wait">お待ちください…</string>
+    <string name="please_login_first">最初にログインしてください</string>
+    <string name="are_you_sure_sign_out">ログアウトしたいですか？</string>
+    <string name="_yes">はい</string>
+    <string name="_no">いいえ</string>
+    <string name="total">Total</string>
+</resources>

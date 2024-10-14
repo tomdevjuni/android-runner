@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">메인 타이틀</string>
+    <string name="desc_intro">설명</string>
+    <string name="skip_now">지금 건너 뛰십시오</string>
+    <string name="itro_title_1">안드로이드의 단계 카운터</string>
+    <string name="itro_desc_1">이 단계 카운터는 내장 센서를 사용하여 단계를 계산합니다. GPS 추적이 없으므로 배터리를 크게 절약 할 수 있습니다. 또한 화상 칼로리, 도보 거리 및 시간 등을 추적합니다.이 모든 정보는 그래프로 명확하게 표시됩니다.</string>
+    <string name="itro_title_2">칼로리 버너로 계단 카운터</string>
+    <string name="itro_desc_2">Calorie Burner를 사용한 STEP 카운터는 체중 감량과 건강을 유지하는 데 도움이되는 간단한 도구입니다. 칼로리 버너로 만보계에서 매일 연소 된 계단과 칼로리를 확인할 수 있습니다.</string>
+    <string name="itro_title_3">스텝 카운터 &amp; 건강 피트니스 추적기</string>
+    <string name="itro_desc_3">단계를 계산하고 건강 피트니스를 추적하는 앱을 찾고 있습니다! 스텝 카운터 피트니스 트래커를 시도해야합니다. 오프라인 워킹을위한이 단계 카운터는 무료 피트니스 앱으로 피트니스를 향상 시키도록 설계되었습니다. &amp; 건강.</string>
+    <string name="what_s_your_gender">너의 성별이 뭐니?</string>
+    <string name="what_s_your_goal">당신의 일상 목표는 무엇입니까?</string>
+    <string name="calories_stride_length_calculation_need_it">칼로리 및 보폭 계산이 필요합니다</string>
+    <string name="to_personalize_your_daily_goal">매일 목표를 개인화합니다</string>
+    <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+    <string name="next">다음</string>
+    <string name="_next">다음</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="generating_your_daily_goal">매일 목표 생성</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">일일 거리 목표</string>
+    <string name="_100_km">100km</string>
+    <string name="total_distance">총 거리</string>
+    <string name="total_time">총 시간</string>
+    <string name="total_calories">총 칼로리</string>
+    <string name="total_average_speed">총 평균 속도</string>
+    <string name="recent_history">최근의 역사</string>
+    <string name="more">더</string>
+    <string name="june_09_2022">2022 년 6 월 9 일</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 분/km</string>
+    <string name="_10_kcal">10 kcal</string>
+    <string name="best_records">최고의 기록</string>
+    <string name="longest_distance">가장 긴 거리</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">최고 속도</string>
+    <string name="min_mi">최소/MI</string>
+    <string name="longest_duration">가장 긴 기간</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">비어 있는</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">현재 최근의 역사는 없습니다</string>
+    <string name="title">제목</string>
+    <string name="cancel">취소</string>
+    <string name="save">구하다</string>
+    <string name="are_you_sure_to_delete_your_history">역사를 삭제 하시겠습니까?</string>
+    <string name="delete_history">역사를 삭제하십시오</string>
+    <string name="my_progress">내 진보</string>
+    <string name="total_km">총 km</string>
+    <string name="total_hours">전체 시간</string>
+    <string name="avg_pace">AVG 페이스</string>
+    <string name="pace_min_km">페이스 (min/km)</string>
+    <string name="see_more">더보기</string>
+    <string name="statistics">통계</string>
+    <string name="week">주</string>
+    <string name="month">월</string>
+    <string name="settings">설정</string>
+    <string name="achievements">업적</string>
+    <string name="running_settings">실행 설정</string>
+    <string name="daily_goal">일일 목표</string>
+    <string name="unit">단위</string>
+    <string name="metric_imperial_unit">메트릭 및 제국 유닛</string>
+    <string name="general_settings">일반 설정</string>
+    <string name="reminder">알림</string>
+    <string name="everyday">매일</string>
+    <string name="_09_00_am">오전 9시</string>
+    <string name="language">언어</string>
+    <string name="english">영어</string>
+    <string name="account_settings">계정 설정</string>
+    <string name="backup_restore">백업 및 복원</string>
+    <string name="subscription">신청</string>
+    <string name="terms_and_support">이용 약관 및 지원</string>
+    <string name="rate_us">우리를 평가하십시오</string>
+    <string name="contact_us">문의하기</string>
+    <string name="privacy_policy">개인 정보 정책</string>
+    <string name="repeat">반복하다</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Sun, Mon, Tue, Wed, Thu, Fri, Sat</string>
+    <string name="select_time">시간을 선택하십시오</string>
+    <string name="select_days">일을 선택하십시오</string>
+    <string name="okay">좋아요</string>
+    <string name="set_as_my_goal">내 목표로 설정했습니다</string>
+    <string name="set_daily_goal">매일 목표를 설정하십시오</string>
+    <string name="find_a_language">언어를 찾으십시오</string>
+    <string name="subscription_plan">구독 계획</string>
+    <string name="sub_desc">응용 프로그램의 모든 기능을 잠금 해제하려면 구독 계획을 선택하십시오.</string>
+    <string name="allows_location">위치를 허용합니다</string>
+    <string name="use_your_location">위치를 사용하십시오</string>
+    <string name="use_location_desc_1">자동으로 추적 된 활동에 대한지도를 보려면 MAP 러너가 항상 위치를 사용하도록 허용하십시오.</string>
+    <string name="use_location_desc_2">지도 러너는 백그라운드에서 위치를 사용하여 도보, 달리기 및 자전거 타기를지도에서 보여줍니다.</string>
+    <string name="not_now">지금은 아닙니다</string>
+    <string name="allow">허용하다</string>
+    <string name="swipe_left_to_unlock">잠금을 해제하려면 왼쪽을 스 와이프합니다</string>
+    <string name="restart">재시작</string>
+    <string name="resume">재개하다</string>
+    <string name="stop">멈추다</string>
+    <string name="finish_run_tracking_training">런 추적 훈련을 마치십시오</string>
+    <string name="finish">마치다</string>
+    <string name="ok">좋아요</string>
+    <string name="get_achievements">업적을 얻으십시오</string>
+    <string name="congratulation">축하해요!</string>
+    <string name="you_have_achieved">당신은 달성했습니다</string>
+    <string name="share_with_social_media">소셜 미디어와 공유하십시오</string>
+    <string name="subscribe">구독하다</string>
+    <string name="hrs">HRS</string>
+    <string name="full_date_example">2022 년 6 월 9 일 오전 7시</string>
+    <string name="speed">속도</string>
+    <string name="calories">칼로리</string>
+    <string name="no_internet">인터넷에 연결되지 않음</string>
+    <string name="sync">동기화</string>
+    <string name="please_wait">기다리세요…</string>
+    <string name="please_login_first">먼저 로그인을 해주세요</string>
+    <string name="are_you_sure_sign_out">로그 아웃 하시겠습니까?</string>
+    <string name="_yes">예</string>
+    <string name="_no">아니요</string>
+    <string name="total">Total</string>
+</resources>

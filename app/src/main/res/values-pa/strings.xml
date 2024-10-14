@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">ਮੁੱਖ ਸਿਰਲੇਖ</string>
+    <string name="desc_intro">ਵੇਰਵਾ</string>
+    <string name="skip_now">ਹੁਣੇ ਛੱਡੋ</string>
+    <string name="itro_title_1">ਐਂਡਰਾਇਡ ਲਈ ਕਦਮ ਵਿਰੋਧੀ</string>
+    <string name="itro_desc_1">ਇਹ ਕਦਮ ਕਾ counter ਂਟਰ ਤੁਹਾਡੇ ਕਦਮਾਂ ਨੂੰ ਗਿਣਨ ਲਈ ਬਿਲਟ-ਇਨ ਸੈਂਸਰ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ. ਕੋਈ ਜੀਪੀਐਸ ਟਰੈਕਿੰਗ ਨਹੀਂ, ਇਸ ਲਈ ਇਹ ਬੈਟਰੀ ਨੂੰ ਬਹੁਤ ਬਚ ਸਕਦਾ ਹੈ. ਇਹ ਤੁਹਾਡੀਆਂ ਸਾੜੀਆਂ ਹੋਈਆਂ ਕੈਲੋਰੀਜ, ਤੁਰਨ ਦੀ ਦੂਰੀ ਅਤੇ ਸਮਾਂ, ਆਦਿ ਨੂੰ ਵੀ ਟਰੈਕ ਕਰਦਾ ਹੈ, ਆਦਿ.</string>
+    <string name="itro_title_2">ਕੈਲੋਰੀ ਬਰਨਰ ਨਾਲ ਸਟੈਪ ਕਾਉਂਟਰ</string>
+    <string name="itro_desc_2">ਕੈਲੋਰੀ ਬਰਨਰ ਨਾਲ ਸਟੈਪ ਕਾਉਂਟਰ ਇੱਕ ਸਧਾਰਣ ਸਾਧਨ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਭਾਰ ਘਟਾਉਣ ਅਤੇ ਫਿਟ ਰੱਖਣ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਲਈ ਇੱਕ ਸਧਾਰਨ ਸੰਦ ਹੈ. ਕੈਲੋਮੀਟਰ ਬਰਨਰ ਨਾਲ ਪੇਡੋਮੀਟਰ ਵਿੱਚ ਸੁੱਟੇ ਕਦਮਾਂ ਅਤੇ ਕੈਲੋਰੀਜਾਂ ਦੀ ਜਾਂਚ ਕਰ ਸਕਦੇ ਹੋ.</string>
+    <string name="itro_title_3">ਕਦਮ ਵਿਰੋਧੀ &amp; ਸਿਹਤ ਤੰਦਰੁਸਤੀ ਟਰੈਕਰ</string>
+    <string name="itro_desc_3">ਇੱਕ ਐਪ ਦੀ ਭਾਲ ਵਿੱਚ ਜੋ ਕਿ ਕਦਮ ਚੁੱਕਣ ਅਤੇ ਤੁਹਾਡੀ ਸਿਹਤ ਤੰਦਰੁਸਤੀ ਨੂੰ ਟਰੈਕ ਤੇ ਰੋਕਦਾ ਹੈ! ਇੱਕ ਕਦਮ ਵਿਰੋਧੀ ਤੰਦਰੁਸਤੀ ਟਰੈਕਰ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ. ਇਹ ਕਦਮ Wind ਫਲਾਈਨ ਤੁਰਨ ਲਈ ਕਾਉਂਟਰ ਇੱਕ ਮੁਫਤ ਤੰਦਰੁਸਤੀ ਐਪ ਹੈ ਜੋ ਤੁਹਾਡੀ ਤੰਦਰੁਸਤੀ ਅਤੇ ਐਮਪੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ; ਸਿਹਤ.</string>
+    <string name="what_s_your_gender">ਤੁਹਾਡਾ ਲਿੰਗ ਕੀ ਹੈ?</string>
+    <string name="what_s_your_goal">ਤੁਹਾਡਾ ਰੋਜ਼ਾਨਾ ਟੀਚਾ ਕੀ ਹੈ?</string>
+    <string name="calories_stride_length_calculation_need_it">ਕੈਲੋਰੀਜ ਅਤੇ ਸਟ੍ਰਾਈਡ ਲੰਬਾਈ ਦੀ ਗਣਨਾ ਦੀ ਜ਼ਰੂਰਤ ਹੈ</string>
+    <string name="to_personalize_your_daily_goal">ਆਪਣੇ ਰੋਜ਼ਾਨਾ ਟੀਚੇ ਨੂੰ ਨਿਜੀ ਬਣਾਉਣ ਲਈ</string>
+    <string name="hello_blank_fragment">ਹੈਲੋ ਖਾਲੀ ਟੁਕੜਾ</string>
+    <string name="next">ਅਗਲਾ</string>
+    <string name="_next">ਅਗਲਾ</string>
+    <string name="male">ਮਰਦ</string>
+    <string name="female">Female ਰਤ</string>
+    <string name="generating_your_daily_goal">ਤੁਹਾਡਾ ਰੋਜ਼ਾਨਾ ਟੀਚਾ ਤਿਆਰ ਕਰਨਾ</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">ਰੋਜ਼ਾਨਾ ਦੂਰੀ ਦਾ ਟੀਚਾ</string>
+    <string name="_100_km">100 ਕਿਲੋਮੀਟਰ</string>
+    <string name="total_distance">ਕੁੱਲ ਦੂਰੀ</string>
+    <string name="total_time">ਕੁੱਲ ਸਮਾਂ</string>
+    <string name="total_calories">ਕੁੱਲ ਕੈਲੋਰੀ</string>
+    <string name="total_average_speed">ਕੁੱਲ speed ਸਤਨ ਗਤੀ</string>
+    <string name="recent_history">ਤਾਜ਼ਾ ਇਤਿਹਾਸ</string>
+    <string name="more">ਹੋਰ</string>
+    <string name="june_09_2022">09 ਜੂਨ, 2022</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 ਮਿੰਟ / ਕਿਮੀ</string>
+    <string name="_10_kcal">10 ਕੇਕਲ</string>
+    <string name="best_records">ਵਧੀਆ ਰਿਕਾਰਡ</string>
+    <string name="longest_distance">ਸਭ ਤੋਂ ਲੰਬੀ ਦੂਰੀ</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">ਸਿਖਰ ਗਤੀ</string>
+    <string name="min_mi">ਮਿਨ / ਐਮਆਈ</string>
+    <string name="longest_duration">ਸਭ ਤੋਂ ਲੰਬਾ ਸਮਾਂ</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">ਖਾਲੀ</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">ਇਸ ਸਮੇਂ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਤਾਜ਼ਾ ਇਤਿਹਾਸ ਨਹੀਂ ਹੈ</string>
+    <string name="title">ਸਿਰਲੇਖ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="save">ਸੇਵ</string>
+    <string name="are_you_sure_to_delete_your_history">ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਉਣਾ ਨਿਸ਼ਚਤ ਹੋ?</string>
+    <string name="delete_history">ਇਤਿਹਾਸ ਮਿਟਾਓ</string>
+    <string name="my_progress">ਮੇਰੀ ਤਰੱਕੀ</string>
+    <string name="total_km">ਕੁੱਲ ਕਿਲੋਮੀਟਰ</string>
+    <string name="total_hours">ਕੁੱਲ ਘੰਟੇ</string>
+    <string name="avg_pace">ਏਵੀਜੀ ਰਫਤਾਰ</string>
+    <string name="pace_min_km">ਰਫਤਾਰ (ਮਿਨ / ਕਿਮੀ)</string>
+    <string name="see_more">ਹੋਰ ਵੇਖੋ</string>
+    <string name="statistics">ਅੰਕੜੇ</string>
+    <string name="week">ਹਫ਼ਤਾ</string>
+    <string name="month">ਮਹੀਨਾ</string>
+    <string name="settings">ਸੈਟਿੰਗਜ਼</string>
+    <string name="achievements">ਪ੍ਰਾਪਤੀਆਂ</string>
+    <string name="running_settings">ਚੱਲ ਰਹੀਆਂ ਸੈਟਿੰਗਾਂ</string>
+    <string name="daily_goal">ਰੋਜ਼ਾਨਾ ਟੀਚਾ</string>
+    <string name="unit">ਯੂਨਿਟ</string>
+    <string name="metric_imperial_unit">ਮੈਟ੍ਰਿਕ ਅਤੇ ਇੰਪੀਰੀਅਲ ਯੂਨਿਟ</string>
+    <string name="general_settings">ਆਮ ਸੈਟਿੰਗਜ਼</string>
+    <string name="reminder">ਯਾਦ</string>
+    <string name="everyday">ਨਿੱਤ</string>
+    <string name="_09_00_am">ਸਵੇਰੇ 9:00 ਵਜੇ</string>
+    <string name="language">ਭਾਸ਼ਾ</string>
+    <string name="english">ਅੰਗਰੇਜ਼ੀ</string>
+    <string name="account_settings">ਖਾਤਾ ਯੋਜਨਾ</string>
+    <string name="backup_restore">ਬੈਕਅਪ ਅਤੇ ਰੀਸਟੋਰ</string>
+    <string name="subscription">ਗਾਹਕੀ</string>
+    <string name="terms_and_support">ਨਿਯਮ ਅਤੇ ਸਹਾਇਤਾ</string>
+    <string name="rate_us">ਸਾਨੂੰ ਦਰਜਾ</string>
+    <string name="contact_us">ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="privacy_policy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="repeat">ਦੁਹਰਾਓ</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">ਸੂਰਜ, ਸੋਮ, ਮੰਗ, ਵਿਆਹ, ਥੂ, ਸ਼ੁੱਕਰਵਾਰ, ਸਤਿ</string>
+    <string name="select_time">ਸਮਾਂ ਚੁਣੋ</string>
+    <string name="select_days">ਦਿਨ ਚੁਣੋ</string>
+    <string name="okay">ਠੀਕ ਹੈ</string>
+    <string name="set_as_my_goal">ਮੇਰੇ ਟੀਚੇ ਦੇ ਤੌਰ ਤੇ ਸੈੱਟ ਕਰੋ</string>
+    <string name="set_daily_goal">ਰੋਜ਼ਾਨਾ ਟੀਚਾ ਨਿਰਧਾਰਤ ਕਰੋ</string>
+    <string name="find_a_language">ਇੱਕ ਭਾਸ਼ਾ ਲੱਭੋ</string>
+    <string name="subscription_plan">ਗਾਹਕੀ ਯੋਜਨਾ</string>
+    <string name="sub_desc">ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਸਾਰੀ ਕਾਰਜਸ਼ੀਲਤਾ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਗਾਹਕੀ ਯੋਜਨਾ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="allows_location">ਸਥਾਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
+    <string name="use_your_location">ਆਪਣੀ ਸਥਿਤੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="use_location_desc_1">ਆਪਣੇ ਆਪ ਟਰੈਕ ਕੀਤੇ ਗਤੀਵਿਧੀਆਂ ਲਈ ਨਕਸ਼ਿਆਂ ਨੂੰ ਵੇਖਣ ਲਈ, ਨਕਸ਼ੇ ਦੇ ਦੌੜਾਕ ਨੂੰ ਆਪਣਾ ਸਥਾਨ ਵਰਤਣ ਦੀ ਆਗਿਆ ਦਿਓ.</string>
+    <string name="use_location_desc_2">ਨਕਸ਼ਾ ਰਨਰ ਸੈਰ ਦਿਖਾਉਣ ਲਈ ਬੈਕਗ੍ਰਾਉਂਡ ਵਿੱਚ ਸਥਾਨ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ, ਦੌੜਦਾ ਹੈ ਅਤੇ ਇੱਕ ਨਕਸ਼ੇ ਤੇ ਸਾਈਕਲ ਸਵਾਰਾਂ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ.</string>
+    <string name="not_now">ਹਾਲੇ ਨਹੀਂ</string>
+    <string name="allow">ਦੀ ਇਜਾਜ਼ਤ</string>
+    <string name="swipe_left_to_unlock">ਤਾਲਾ ਖੋਲ੍ਹਣ ਲਈ ਖੱਬੇ ਪਾਸੇ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="restart">ਰੀਸਟਾਰਟ</string>
+    <string name="resume">ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="stop">ਰੂਕੋ</string>
+    <string name="finish_run_tracking_training">ਰਨ ਟਰੈਕਿੰਗ ਸਿਖਲਾਈ ਨੂੰ ਖਤਮ ਕਰੋ</string>
+    <string name="finish">ਮੁਕੰਮਲ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="get_achievements">ਪ੍ਰਾਪਤੀਆਂ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="congratulation">ਵਧਾਈਆਂ!</string>
+    <string name="you_have_achieved">ਤੁਸੀਂ ਪ੍ਰਾਪਤ ਕੀਤਾ ਹੈ</string>
+    <string name="share_with_social_media">ਸੋਸ਼ਲ ਮੀਡੀਆ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="subscribe">ਸਬਸਕ੍ਰਾਈਬ</string>
+    <string name="hrs">ਘੰਟਾ</string>
+    <string name="full_date_example">09 ਜੂਨ 2022, ਸਵੇਰੇ 7:00 ਵਜੇ</string>
+    <string name="speed">ਗਤੀ</string>
+    <string name="calories">ਕੈਲੋਰੀ</string>
+    <string name="no_internet">ਕੋਈ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ</string>
+    <string name="sync">ਸਮਕਾਲੀ</string>
+    <string name="please_wait">ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ…</string>
+    <string name="please_login_first">ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਲਾਗਇਨ ਕਰੋ</string>
+    <string name="are_you_sure_sign_out">ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਲਾਗਆਉਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="_yes">ਹਾਂ</string>
+    <string name="_no">ਨਹੀਂ</string>
+    <string name="total">Total</string>
+</resources>

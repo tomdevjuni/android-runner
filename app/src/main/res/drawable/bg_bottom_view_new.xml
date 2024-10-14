@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drop Shadow Stack -->
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#02000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#03000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#04000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#05000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#06000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp"/>
+            <solid android:color="#07000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" />
+            <solid android:color="#08000000" />
+            <corners
+                android:topLeftRadius="@dimen/_30sdp"
+                android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+
+    <!-- Background -->
+    <item>
+        <shape>
+            <solid android:color="#ffffff" />
+            <corners
+            android:topLeftRadius="@dimen/_30sdp"
+            android:topRightRadius="@dimen/_30sdp" />
+        </shape>
+    </item>
+</layer-list>

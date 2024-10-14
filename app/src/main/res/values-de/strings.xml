@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Level Up</string>
+    <string name="default_web_client_id" translatable="false">251759560232-2dhgl86krj4ikrsj1b7sb0243s1897qp.apps.googleusercontent.com</string>
+    <string name="distance" translatable="false">Distance</string>
+    <string name="duration" translatable="false">Duration</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="english_lang" translatable="false">English</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+    <string name="arabic" translatable="false">Arabic</string>
+    <string name="german" translatable="false">German</string>
+    <string name="portuguese" translatable="false">Portuguese</string>
+    <string name="russian" translatable="false">Russian</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="urdu" translatable="false">Urdu</string>
+    <string name="chinese" translatable="false">Chinese</string>
+    <string name="chinese_traditional" translatable="false">Chinese Traditional</string>
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="indonesian" translatable="false">Indonesian</string>
+    <string name="italian" translatable="false">Italian</string>
+    <string name="korean" translatable="false">Korean</string>
+    <string name="turkish" translatable="false">Turkish</string>
+    <string name="javanese" translatable="false">Javanese</string>
+    <string name="bengali" translatable="false">Bengali</string>
+    <string name="punjabi" translatable="false">Punjabi</string>
+    <string name="tamil" translatable="false">Tamil</string>
+    <string name="telugu" translatable="false">Telugu</string>
+    <string name="_miles" translatable="false">Miles</string>
+    <string name="mile" translatable="false">Mile</string>
+    <string name="km" translatable="false">km</string>
+    <string name="KM" translatable="false">Km</string>
+    <string name="main_title">Überschrift</string>
+    <string name="desc_intro">Beschreibung</string>
+    <string name="skip_now">Überspringen Sie jetzt</string>
+    <string name="itro_title_1">Schrittzähler für Android</string>
+    <string name="itro_desc_1">Mit diesem Schrittzähler wird der eingebaute Sensor verwendet, um Ihre Schritte zu zählen. Kein GPS -Tracking, sodass es den Akku stark sparen kann. Es verfolgt auch Ihre verbrannten Kalorien, Gehweite und Zeitabstand usw. Alle diese Informationen werden deutlich in Graphen angezeigt.</string>
+    <string name="itro_title_2">Stufenzähler mit Kalorienbrenner</string>
+    <string name="itro_desc_2">Schrittzähler mit Kalorienbrenner ist ein einfaches Werkzeug, mit dem Sie Gewicht verlieren und fit bleiben können. Sie können die täglich im Schrittzähler verbrannten Schritte und Kalorien mit Kalorienbrenner überprüfen.</string>
+    <string name="itro_title_3">Schrittzähler &amp; amp; Health Fitness Tracker</string>
+    <string name="itro_desc_3">Suchen Sie nach einer App, die Schritte zählt und Ihre Gesundheitsfitness auf dem richtigen Weg hält! Sollte einen Stiefen -Zähler -Fitness -Tracker ausprobieren. Dieser Schrittschalter für das Gehen offline ist eine kostenlose Fitness -App, die Ihre Fitness &amp; AMP verbessern soll. Gesundheit.</string>
+    <string name="what_s_your_gender">Was ist dein Geschlecht?</string>
+    <string name="what_s_your_goal">Was ist Ihr tägliches Ziel?</string>
+    <string name="calories_stride_length_calculation_need_it">Kalorien- und Stridlängenberechnung brauchen es</string>
+    <string name="to_personalize_your_daily_goal">Um Ihr tägliches Ziel zu personalisieren</string>
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="next">Nächste</string>
+    <string name="_next">Nächste</string>
+    <string name="male">Männlich</string>
+    <string name="female">Weiblich</string>
+    <string name="generating_your_daily_goal">Erzeugen Sie Ihr tägliches Ziel</string>
+    <string name="_78_50">0</string>
+    <string name="daily_distance_goal">Tägliches Entfernungsziel</string>
+    <string name="_100_km">100 km</string>
+    <string name="total_distance">Gesamtentfernung</string>
+    <string name="total_time">Gesamtzeit</string>
+    <string name="total_calories">Gesamtkalorien</string>
+    <string name="total_average_speed">Gesamtdurchschnittsgeschwindigkeit</string>
+    <string name="recent_history">Jüngste Geschichte</string>q
+    <string name="more">Mehr</string>
+    <string name="june_09_2022">09. Juni 2022</string>
+    <string name="_01_10_38">1:10:38</string>
+    <string name="_12_23_min_km">12:23 min/km</string>
+    <string name="_10_kcal">10 kcal</string>
+    <string name="best_records">Beste Aufzeichnungen</string>
+    <string name="longest_distance">Längste Entfernung</string>
+    <string name="_0">0</string>
+    <string name="_0__00">0</string>
+    <string name="top_speed">Höchstgeschwindigkeit</string>
+    <string name="min_mi">min/mi</string>
+    <string name="longest_duration">Längste Dauer</string>
+    <string name="_00_00">0:00</string>
+    <string name="_00_00_00">0:00:00</string>
+    <string name="empty">Leer</string>
+    <string name="you_don_t_have_any_recent_history_at_this_time">Sie haben derzeit keine aktuelle Geschichte</string>
+    <string name="title">Titel</string>
+    <string name="cancel">Stornieren</string>
+    <string name="save">Speichern</string>
+    <string name="are_you_sure_to_delete_your_history">Sind Sie sicher, Ihre Geschichte zu löschen?</string>
+    <string name="delete_history">Verlauf löschen</string>
+    <string name="my_progress">Mein Fortschritt</string>
+    <string name="total_km">Total km</string>
+    <string name="total_hours">Gesamtstunden</string>
+    <string name="avg_pace">Avg Tempo</string>
+    <string name="pace_min_km">Tempo (min/km)</string>
+    <string name="see_more">Mehr sehen</string>
+    <string name="statistics">Statistiken</string>
+    <string name="week">Woche</string>
+    <string name="month">Monat</string>
+    <string name="settings">Einstellungen</string>
+    <string name="achievements">Erfolge</string>
+    <string name="running_settings">Auslaufeinstellungen</string>
+    <string name="daily_goal">Tägliches Ziel</string>
+    <string name="unit">Einheit</string>
+    <string name="metric_imperial_unit">Metrik &amp; Imperial Unit</string>
+    <string name="general_settings">Allgemeine Einstellungen</string>
+    <string name="reminder">Erinnerung</string>
+    <string name="everyday">Täglich</string>
+    <string name="_09_00_am">9:00 MORGENS</string>
+    <string name="language">Sprache</string>
+    <string name="english">Englisch</string>
+    <string name="account_settings">Account Einstellungen</string>
+    <string name="backup_restore">Backup &amp; Wiederherstellung</string>
+    <string name="subscription">Abonnement</string>
+    <string name="terms_and_support">Begriffe und Unterstützung</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="contact_us">Kontaktiere uns</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="sun_mon_tue_wed_thu_fri_sat">Sonne mon tue wed thu fri saß</string>
+    <string name="select_time">Zeit auswählen</string>
+    <string name="select_days">Wählen Sie Tage aus</string>
+    <string name="okay">OK</string>
+    <string name="set_as_my_goal">Setze als mein Ziel</string>
+    <string name="set_daily_goal">Tägliches Ziel setzen</string>
+    <string name="find_a_language">Finde eine Sprache</string>
+    <string name="subscription_plan">Abonnementplan</string>
+    <string name="sub_desc">Wählen Sie einen Abonnementplan, um die gesamte Funktionalität der Anwendung freizuschalten</string>
+    <string name="allows_location">Erlaubt Standort</string>
+    <string name="use_your_location">Verwenden Sie Ihren Standort</string>
+    <string name="use_location_desc_1">Um Karten für automatisch verfolgte Aktivitäten anzuzeigen, können Sie den Kartenläufer die ganze Zeit über Ihren Standort verwenden.</string>
+    <string name="use_location_desc_2">Der MAP Runner verwendet den Standort im Hintergrund, um Spaziergänge, Läufe und Fahrradfahrten auf einer Karte zu zeigen.</string>
+    <string name="not_now">Nicht jetzt</string>
+    <string name="allow">Erlauben</string>
+    <string name="swipe_left_to_unlock">Links streichen, um freizuschalten</string>
+    <string name="restart">Neu starten</string>
+    <string name="resume">Wieder aufnehmen</string>
+    <string name="stop">Stoppen</string>
+    <string name="finish_run_tracking_training">Beenden Run Tracking -Training</string>
+    <string name="finish">Beenden</string>
+    <string name="ok">OK</string>
+    <string name="get_achievements">Erleichterungen erhalten</string>
+    <string name="congratulation">Glückwunsch!</string>
+    <string name="you_have_achieved">Sie haben erreicht</string>
+    <string name="share_with_social_media">Mit sozialen Medien teilen</string>
+    <string name="subscribe">Abonnieren</string>
+    <string name="hrs">HRS</string>
+    <string name="full_date_example">09. Juni 2022, 7:00 Uhr</string>
+    <string name="speed">Geschwindigkeit</string>
+    <string name="calories">Kalorien</string>
+    <string name="no_internet">Keine Internetverbindung</string>
+    <string name="sync">Synchronisierung</string>
+    <string name="please_wait">Bitte warten…</string>
+    <string name="please_login_first">Bitte loggen Sie sich zuerst ein</string>
+    <string name="are_you_sure_sign_out">Sind Sie sicher, dass Sie sich abmelden möchten?</string>
+    <string name="_yes">Ja</string>
+    <string name="_no">NEIN</string>
+    <string name="total">Total</string>
+</resources>

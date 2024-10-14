@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <application
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:fullBackupOnly="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StepTrackerPedometer"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity.HistoryDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.GetAchievementsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.AchievementsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.CountDownActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.RunningActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.AllowsLocation"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SubscriptionActivity"
+            android:exported="false" />
+        <activity android:name=".activity.ReminderActivity" />
+        <activity
+            android:name=".activity.LoadingPlanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.IntroProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.IntroductionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.BaseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- For Reminder Alarm -->
+        <receiver
+            android:name=".alarm.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true"
+            tools:ignore="ExportedReceiver" />
+        <receiver
+            android:name=".alarm.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".locationservice.LocationTrackerService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="location">
+            <intent-filter>
+                <action android:name="com.shreyanshi.run_tracker_native_app.action.TRACK_LOCATION" />
+            </intent-filter>
+        </service> <!-- <receiver -->
+        <!-- android:name=".locationservice.LocationUpdatesBroadcastReceiver" -->
+        <!-- android:exported="true" -->
+        <!-- android:permission="android.permission.ACCESS_BACKGROUND_LOCATION"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="PROCESS_UPDATES" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+        <!-- For Firebase -->
+        <property
+            android:name="android.adservices.AD_SERVICES_CONFIG"
+            android:resource="@xml/gma_ad_services_config"
+            tools:replace="android:resource" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/AD_MOB_APPLICATION_ID"/>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyABOvGHMASoSlEq8IrtvHPGtPxlDvcgpVc" />
+<!--        Set your Google map api key at here-->
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.shreyanshi.run_tracker_native_app.fileprovider"
+            android:grantUriPermissions="true"
+            android:exported="false">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/filepaths" />
+        </provider>
+    </application>
+
+</manifest>
